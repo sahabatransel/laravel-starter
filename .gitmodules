@@ -1,0 +1,6 @@
+[submodule "laradock"]
+	path = laradock
+	url = https://github.com/Laradock/laradock.git
+[submodule "public/admin"]
+	path = public/admin
+	url = https://github.com/BlackrockDigital/startbootstrap-sb-admin-2.git
